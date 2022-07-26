@@ -2,4 +2,5 @@
 
 return [
     'Dashboard' => 'Dashboard',
+    'Notifications' => 'Notifications',
 ];
