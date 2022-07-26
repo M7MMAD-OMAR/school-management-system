@@ -47,7 +47,7 @@
                     </a>
                     <div class="dropdown-menu dropdown-menu-right dropdown-big dropdown-notifications">
                         <div class="dropdown-header notifications">
-                            <strong>Notifications</strong>
+                            <strong>{{trans('main_trans.Notifications')}}</strong>
                             <span class="badge badge-pill badge-warning">05</span>
                         </div>
                         <div class="dropdown-divider"></div>
@@ -73,7 +73,7 @@
                         <div class="dropdown-divider"></div>
                         <div class="nav-grid">
                             <a href="#" class="nav-grid-item"><i class="ti-files text-primary"></i>
-                                <h5>New Task</h5>
+                                <h5>{{trans('main_trans.New Task')}}</h5>
                             </a>
                             <a href="#" class="nav-grid-item"><i class="ti-check-box text-success"></i>
                                 <h5>Assign Task</h5>
