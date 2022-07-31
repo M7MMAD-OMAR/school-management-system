@@ -25,5 +25,4 @@ Route::group(
     {
         return view('dashboard');
     });
-
 });
